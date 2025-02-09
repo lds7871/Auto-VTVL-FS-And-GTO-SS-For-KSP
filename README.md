@@ -13,4 +13,5 @@
 <li>运行文件——https://github.com/krpc/krpc/releases</li>
 <li>游戏插件——https://www.curseforge.com/kerbal/ksp-mods/krpc-control-the-game-using-c-c-java-lua-python</li>
 
-
+<h2>个人链接</h2>
+<li>案例视频演示——https://space.bilibili.com/397866044</li>

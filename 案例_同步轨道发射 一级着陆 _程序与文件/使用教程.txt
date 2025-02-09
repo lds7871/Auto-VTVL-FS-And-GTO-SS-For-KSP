@@ -1,0 +1,5 @@
+.craft与.loadmeta文件放入“Kerbal Space Program/saves/object/Ships/VAB”里
+程序启动顺序：
+1.一级发射程序
+2.一级着陆程序
+3.二级同步轨道程序

@@ -1,0 +1,12 @@
+先行准备：
+1..craft与.loadmeta文件放入“Kerbal Space Program/saves/object/Ships/VAB”里
+2.请先进入Krpc官网下载三方库.jar
+3.Idea打开：项目结构->库->导入krpc.jar的部分
+4.下载TweakScale这个缩放模组
+
+程序启动顺序：
+0.打开游戏插件
+1.一级发射程序
+2.一级着陆程序
+3.二级同步轨道程序
+4.发射完成后请将航天器重命名，以免发生下一次索引寻找有误的情况

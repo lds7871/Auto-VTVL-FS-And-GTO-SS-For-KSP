@@ -12,7 +12,7 @@
 <li>TweakScale插件——https://www.curseforge.com/kerbal/ksp-mods/tweakscale</li>
 
 <h2>个人链接</h2>
-<li>案例视频演示——https://space.bilibili.com/397866044</li>
+<li>案例视频演示——[https://space.bilibili.com/397866044](https://www.bilibili.com/video/BV1G9NDeqEJU/)</li>
 
 <h2>更新日志</h2>
 <li>25/2/24——对“同步轨道发射”程序的飞船文件与教程进行修改更新</li>
